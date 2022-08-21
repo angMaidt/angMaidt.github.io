@@ -11,8 +11,14 @@
 .profile-image {
 	z-index: -1;
 	position: absolute;
-	height: 10%;
+	height: 300px;
+	overflow: hidden;
+	border-radius: 100%;
 	/* filter: grayscale(1); */
+}
+
+.profile-image img {
+	height: 100%
 }
 
 
