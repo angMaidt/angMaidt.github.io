@@ -3598,7 +3598,11 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 		background-image: url('../../images/profile.jpg');
-		background-position-y: 100px 0;
+		background-attachment: fixed;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		text-align: center;
 	}
 
 		#banner h2 {
