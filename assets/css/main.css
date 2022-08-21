@@ -8,13 +8,8 @@
 */
 
 /* my fixes */
-.profile-image {
-	/* z-index: -1; */
-	/* position: absolute; */
-	/* height: 300px;
-	overflow: hidden;
-	border-radius: 100%; */
-	/* filter: grayscale(1); */
+a {
+	text-decoration: none;
 }
 
 .profile-image img {
