@@ -8,13 +8,17 @@
 */
 
 /* my fixes */
-a {
+/* a {
 	text-decoration: none;
+} */
+
+.resume-link {
+	font-size: 25px;
 }
 
-.github-label {
+/* .github-label {
 	margin-right: 30px;
-}
+} */
 
 
 html, body, div, span, applet, object,
@@ -150,7 +154,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		-ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
 		transition: color 0.2s ease, border-bottom-color 0.2s ease;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: inherit;
 		text-decoration: none;
 	}
@@ -2043,6 +2047,7 @@ input, select, textarea {
 
 		.fa-globe {
 			font-size: 2em;
+			margin-left: 30px;
 		}
 
 		.icon > .label {
