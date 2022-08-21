@@ -3598,7 +3598,7 @@ input, select, textarea {
 		position: relative;
 		text-align: center;
 		background-image: url('../../images/profile.jpg');
-		background-position-y: 350px 0;
+		background-position-y: 100px 0;
 	}
 
 		#banner h2 {
