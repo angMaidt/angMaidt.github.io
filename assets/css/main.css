@@ -2045,6 +2045,10 @@ input, select, textarea {
 			font-size: 2em;
 		}
 
+		.fa-globe {
+			font-size: 2em;
+		}
+
 		.icon > .label {
 			display: none;
 		}
