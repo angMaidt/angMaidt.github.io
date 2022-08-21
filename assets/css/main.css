@@ -3597,7 +3597,7 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
-		background-image: url('./images/profile.jpg');
+		background-image: url('../../images/profile.jpg');
 	}
 
 		#banner h2 {
