@@ -19,8 +19,8 @@
 
 
 #hover:hover {
-	position: absolute;
-	scale: 1.2;
+	color: white;
+	opacity: 100%;
 }
 
 #about-body > p {
