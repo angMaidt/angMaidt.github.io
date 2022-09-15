@@ -18,12 +18,13 @@
 }
 
 
-.hover:hover {
+#hover:hover {
 	color: white;
 }
 
-#about-me {
+#about-body > p {
 	text-align: left;
+	text-indent: 10px;
 }
 
 /* .github-label {
