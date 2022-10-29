@@ -17,6 +17,17 @@
 	border-bottom: 2px solid;
 }
 
+
+#hover:hover {
+	color: #FFD12F;
+	opacity: 100%;
+}
+
+#about-body > p {
+	text-align: left;
+	text-indent: 50px;
+}
+
 /* .github-label {
 	margin-right: 30px;
 } */
@@ -2052,6 +2063,7 @@ input, select, textarea {
 
 		.icon > .label {
 			display: none;
+			transition: all .2s ease-in-out
 		}
 
 		.icon:before {
